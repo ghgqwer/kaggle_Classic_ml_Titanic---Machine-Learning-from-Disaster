@@ -1,4 +1,4 @@
-# kaggle Classic ml Titanic binary classification ptediction 
+# kaggle Classic ml Titanic binary classification prediction 
 Solution for kaggle competition
 
 rank - 1525/14942 \
